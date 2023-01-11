@@ -36,15 +36,19 @@ Terminal 3: python real_time_data_streaming.py
 
 **Result**
 producer:
+
 ![Screen Shot 2023-01-11 at 1 17 56 AM](https://user-images.githubusercontent.com/33342277/211732311-6ae28baf-d7b7-4014-a950-fcf09c41da9f.png)
 
 consumer: 
+
 ![Screen Shot 2023-01-11 at 1 17 17 AM](https://user-images.githubusercontent.com/33342277/211732364-e4ccef69-df8e-4619-b1ce-b1b230d5668f.png)
 
 real_time_data_streaming:
+
 ![Screen Shot 2023-01-11 at 1 17 33 AM](https://user-images.githubusercontent.com/33342277/211732410-9968f76e-8834-4680-b992-63a2b80595b3.png)
 
 postgres database:
+
 ![Screen Shot 2023-01-11 at 1 16 54 AM](https://user-images.githubusercontent.com/33342277/211732451-7319ab69-e2c7-4754-b274-eb5ea3fde595.png)
 
 
