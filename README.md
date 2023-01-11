@@ -1,4 +1,4 @@
-# big_data
+# About the project
 
 The NASA API was hit and the images are downloaded. The downloaded images are kept in a folder for processing. During processing, the parameters are calculated from the
 Apache Kafka producer. Then, Apache Kafka is used as an intermediate buffer that can hold the message generated from the sources before going to the processing layer. The use of
