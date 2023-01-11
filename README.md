@@ -25,6 +25,8 @@ real_time_data_streaming.py:  This file has the program to connect and write in 
 
 **Running commands:**
 
-Terminal 1: python producer.py \br
-Terminal 2: python consumer.py \br 
-Terminal 3: python real_time_data_streaming.py \br
+Terminal 1: python producer.py 
+
+Terminal 2: python consumer.py 
+
+Terminal 3: python real_time_data_streaming.py 
